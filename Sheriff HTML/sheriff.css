@@ -227,35 +227,42 @@ ul li a:hover{
     color: beige;
     transition: 0.4s ease;
 }
+
 .btnn:hover{
     background: beige;
     color: olive;
 }
+
 .btnn a{
     text-decoration: none;
     color: #000;
     font-weight: bold;
 }
+
 .form .link{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
     padding-top: 20px;
     text-align: center;
 }
+
 .form .link a{
     text-decoration: none;
     color: olive;
 }
+
 .liw{
     padding-top: 15px;
     padding-bottom: 10px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 .icons a{
     text-decoration: none;
     color: beige;
 }
+
 .icons ion-icon{
     color: beige;
     font-size: 30px;
@@ -263,6 +270,7 @@ ul li a:hover{
     padding-top: 5px;
     transition: 0.3s ease;
 }
+
 .icons ion-icon:hover{
     color: olive;
 }
