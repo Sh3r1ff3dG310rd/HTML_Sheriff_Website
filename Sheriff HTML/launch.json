@@ -8,7 +8,7 @@
             "type": "msedge",
             "name": "Attach to Edge",
             "request": "launch",
-            "file": "${workspaceFolder}/sheriff.html"
+            "file": "C:/HTML_Sheriff_Website/Sheriff HTML/sheriff.html"
         }
     ]
 }
